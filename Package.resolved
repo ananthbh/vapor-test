@@ -83,21 +83,21 @@
         }
       },
       {
-        "package": "TemplateKit",
-        "repositoryURL": "https://github.com/vapor/template-kit.git",
-        "state": {
-          "branch": null,
-          "revision": "2b5ac1d156c8980ec8f78ca399cebc47bdf16a54",
-          "version": "1.0.0-beta.1.1"
-        }
-      },
-      {
         "package": "TLS",
         "repositoryURL": "https://github.com/vapor/tls.git",
         "state": {
           "branch": null,
           "revision": "d2bf9da1ef8ac1aef910d40d48e4088462767d00",
           "version": "3.0.0-beta.2.1"
+        }
+      },
+      {
+        "package": "TemplateKit",
+        "repositoryURL": "https://github.com/vapor/template-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "2b5ac1d156c8980ec8f78ca399cebc47bdf16a54",
+          "version": "1.0.0-beta.1.1"
         }
       },
       {
